@@ -10,6 +10,7 @@ class Gestor extends CI_Controller {
      $this->load->helper(array('form'));
      $this->load->library('form_validation');
      /*$this->load->model("Ofertas_model");*/
+     /*comentario*/
  }
 
 	
